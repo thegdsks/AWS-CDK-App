@@ -25,7 +25,7 @@ This project leverages AWS CDK (Cloud Development Kit) to programmatically provi
    Clone this repository to your local machine to get started with the CDK project.
 
    ```bash
-   git clone https://github.com/yourusername/corpweb-cdk-project.git
+   git clone https://github.com/gagandua078/AWS-CDK-App.git
    cd corpweb-cdk-project
    ```
 
