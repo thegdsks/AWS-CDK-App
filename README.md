@@ -50,7 +50,7 @@ This project leverages AWS CDK (Cloud Development Kit) to programmatically provi
    npx cdk deploy
    ```
 
-   This command will synthesize the CloudFormation template from your CDK scripts and deploy it, creating the infrastructure described above.
+   This command will synthesize the CDK scripts and deploy it, creating the infrastructure described above.
 
 ## Clean Up
 
